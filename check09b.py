@@ -18,7 +18,7 @@ def main() :
     try :
         num=int(input("Enter a number: "))
         inverse=get_inverse(num)
-        print(inverse)
+        print(f'The result is: {inverse}')
     except ValueError :
         print('Error: The value must be a number')
     except ZeroDivisionError :

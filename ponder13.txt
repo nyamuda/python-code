@@ -1,0 +1,42 @@
+Your Name:Tatenda Nyamuda
+
+1. Why would someone use a shell script instead of writing a Python program?
+   When you want to execute simple tasks, doing it with shell script will be much 
+   simpler than doing it with Python.
+
+
+2. Why would someone use a Python program instead of writing a shell script?
+   
+   If you want to build large applications, Python has lots of libraries, is easy to debug
+   and the syntax is also easy to read and understand. So you can build almost any application with Python
+   easily. Shell script on the other hand, lacks many data structures and functions which makes it
+   very difficult to use to build large applications.
+
+
+3. What is the most interesting thing you learned as a part of your work for this class this week?
+
+   I've learned a lot about Pandas and I'm loving it. Doing the data analysis assignment made me 
+   understand it better and I think I'm now considering data science as one of my posssible future careers.
+
+
+4. Describe one specific way that you helped someone else this week, or reached out for help.
+  
+   The data analysis assignment was very challenging. I had to do read a lot of documentation about
+   Pandas and Seaborn. Stakeoverflow also helped a lot especially in regards to some errors I was running into.
+
+5. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+
+   No
+
+
+6. How much time did you spend this week on each of the following:
+
+Reading - 4hrs
+Checkpoint A - 1hr
+Checkpoint B - 3hrs
+Team Activity - 1hr 30 min
+Data Structures Homework - 2hrs 50 mins
+Prove Assignment - +10 hrs
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+

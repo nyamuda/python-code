@@ -1,0 +1,40 @@
+Your Name:Tatenda Nyamuda
+
+1. What is your favorite thing about working with Pandas?
+
+   One thing I like about Pandas is that it easy to understand. There is some similarity between Pandas and
+   SQL, so as someone who has worked with SQL, I understand the Pandas syntax very well.
+
+
+2. What is your least favorite thing about working with Pandas?
+
+   So far I like everything about Pandas. There's really nothing about Pandas I don't like at the moment.
+
+
+3. What is the most interesting thing you learned as a part of your work for this class this week?
+
+   Of course, learning Pandas. I really liked the library and I feel there's so much you can do with it.
+
+
+4. Describe one specific way that you helped someone else this week, or reached out for help.
+
+   I ran into a lot of errors when I was working on the data analysis assignment. I had to do a lot of 
+   online research especially about Pandas as a result.
+
+
+5. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+
+   No
+
+
+6. How much time did you spend this week on each of the following:
+
+Reading - 2 hours 
+Checkpoint A - 1 hour
+Checkpoint B - 
+Team Activity - 1hr 30 min
+Data Structures Homework - 1 hour
+Prove Assignment - 5 hours
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+

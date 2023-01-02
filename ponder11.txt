@@ -1,0 +1,44 @@
+Your Name:Tatenda Nyamuda
+
+1. In your own words describe polymorphism.
+   
+   Polymorphism means existing in multiple forms. One common example of polymorphism is the "+" operator.
+   If you're working with values of "int" data type, the "+" operator adds the values and if you're working 
+   with values of "str", it concatenates the values. Thus, the "+" operator can be used to add values or
+   to concatenate values, meaning, it can take multiple forms and with each form it behaves differently.
+
+
+2. Briefly describe how polymorphism is used in your project.
+   
+   In my project, some classes have methods with the same name. These methods however, behave or operate
+   differently when invoked. In other words, these methods are polymorphic, that is, they take multiple forms
+   in different classes.
+
+
+3. What is the most interesting thing you learned as a part of your work for this class this week?
+  
+   The most interesting thing I learned was the use of list comprehension. I was really suprised at how powerful
+   it is when working with lists/arrays.
+
+
+4. Describe one specific way that you helped someone else this week, or reached out for help.
+
+   Had some difficulty understanding how exactly to use else/if statements with list comprehension. I did
+   some digging online and after seeing some examples, I understood it perfectly.
+
+5. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+ 
+   No
+
+
+6. How much time did you spend this week on each of the following:
+
+Reading - 
+Checkpoint A - 
+Checkpoint B - 
+Team Activity - 1 hour 30 mins
+Data Structures Homework - 2 hours
+Prove Assignment - 4 hours
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+

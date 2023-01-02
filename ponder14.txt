@@ -1,0 +1,55 @@
+Your Name:Tatenda Nyamuda
+
+
+1. In your own words, please describe object-oriented programming and explain why it is useful.
+   
+   Object-Oriented Programming is the use of objects to model things that are in the real world.
+   This means that when an application is developed, the application is just a collection of objects.
+   And these objects communicate with each other. The objects are created using "Classes". Classes
+   are like templates for creating objects. The process of creating an object using a Class is called
+   "instantiation" and an object created using a class is called an "instance" of that class. Object-Oriented Programming
+   is useful in the following ways:
+      
+               1. Encapsulation 
+
+                Encapsulation is the process of wrapping member data and member methods into a single unit.
+                The makes the objects created by a class that uses encapsulation to be self-contained. When 
+                an error arises, the entire program will be easy to debug because you will know exactly
+                where to look.
+
+               2. Inheritance
+
+                If two or more classes share the same properties, a parent class(also called a base class) can be
+                created with those properties. The other classes(child classes) can then inherit from the parent class.
+                This allows us to write less code and will save us a lot of time. The parent class can be used as many times
+                as required in our application. As a result, this makes the code reusable.
+
+
+
+2. Of all the different data structures we discussed, which one do you think is the "coolest" and why?
+
+   The coolest data structure is the "Binary Search Tree". It perfomance is very impressive since all operations
+   on average can be done in O(log(n)) time.
+
+
+3. What is the most interesting thing you learned this semester?
+
+  Learning about data structures was by far the most interesting thing I learned this semester. I had heard many
+  computer science students talking about them a lot and was very curious about them.
+
+
+4. If this course included three more weeks, what additional topic(s) would you like to learn about?
+
+   I would love to learn more about Pandas.
+
+
+
+5. What was the biggest misconception you had about this material prior to this semester?
+
+   I really didn't have any misconceptions. I knew exactly what the material was going to be about.
+
+
+6. Do you have any final questions/comments for your instructor?
+
+   No
+

@@ -1,0 +1,47 @@
+Your Name:Tatenda Nyamuda
+
+1. What is one advantage of MergeSort compared to QuickSort, and one advantage of QuickSort?
+
+   Sorting using MergeSort has a time complexity of O(n*log(n)) when working with large array sizes. 
+   This means that when working with large arrays, using MergeSort for sorting is very fast . 
+   On the other hand, QuickSort is very fast, and efficient and has also a time complexity of O(n*log(n)) 
+   but only when working with arrays of smaller sizes.
+
+
+2. What sorting algorithm is the default, built-in algorithm used by Python? (Use the Internet to track this down.) Briefly describe how it works.
+    
+  Python uses what is called Tim Sort. Tim Sort is a combination of the insertion and merge sort. Timsort works in
+  the following way:
+
+         a) First, an algorithm is used to split the input array into sub-arrays.
+         b) Then each of the sub-arrays is sorted using Insertion Sort.
+         c) And finally the sorted arrays are combined/merged into one array using Merge Sort. 
+
+
+3. What is the most interesting thing you learned as a part of your work for this class this week?
+
+   Learning about the Sorting Algorithms was very interesting and very challenging too.
+
+
+4. Describe one specific way that you helped someone else this week, or reached out for help.
+
+   Had a hard time understanding how each sorting algorithm works. I had to use so many online resourses 
+   to fully grasp how they work.
+
+
+5. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+   
+   No
+
+
+6. How much time did you spend this week on each of the following:
+
+Reading - 8+ hours
+Checkpoint A - 30 mins
+Checkpoint B - 1 hour
+Team Activity - 1 hour 30 mins
+Data Structures Homework - 30 mins
+Prove Assignment - 4 hours
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+
